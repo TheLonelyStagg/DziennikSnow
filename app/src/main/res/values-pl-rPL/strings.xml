@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dziennik Snow</string>
+    <string name="title_activity_add_dream">Dodaj nowy sen</string>
+    <string name="title_activity_edit_dream">Edytuj sen</string>
+    <string name="title_activity_show_dream">Podgląd snu</string>
+    <string name="dream_title">Tytuł snu</string>
+    <string name="set_title">Podaj tytuł...</string>
+    <string name="voice_rec">Nagranie głosowe</string>
+    <string name="source_to_file">Ścieżka do pliku...</string>
+    <string name="record_file">Nagraj plik</string>
+    <string name="dream_desc">Opis snu</string>
+    <string name="what_was_dream_about">O czym był sen?</string>
+    <string name="dream_date">Data snu</string>
+    <string name="dream_time">Godzina snu</string>
+    <string name="dd_mm_yyyy">DD / MM / YYYY</string>
+    <string name="hh_mm">HH : MM</string>
+    <string name="tags">Tagi:</string>
+    <string name="tags_for_this_dream">Tagi tego snu...</string>
+    <string name="title__">Tytuł...</string>
+    <string name="replay_file">Odtwórz plik</string>
+    <string name="record">Nagraj</string>
+    <string name="replay">Odtwórz</string>
+    <string name="save">Zapisz</string>
+    <string name="back">Powrót</string>
+</resources>

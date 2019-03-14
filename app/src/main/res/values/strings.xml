@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dream Journal</string>
+    <string name="title_activity_add_dream">Add new dream</string>
+    <string name="title_activity_edit_dream">Edit dream</string>
+    <string name="title_activity_show_dream">Dream details</string>
+    <string name="dream_title">Dream title</string>
+    <string name="set_title">Place for your title...</string>
+    <string name="voice_rec">Voice recording</string>
+    <string name="source_to_file">File source...</string>
+    <string name="record_file">Record new file</string>
+    <string name="dream_desc">Dream description</string>
+    <string name="what_was_dream_about">What was your dream about</string>
+    <string name="dream_time">Dream time</string>
+    <string name="dd_mm_yyyy">DD / MM / YYYY</string>
+    <string name="hh_mm">HH : MM</string>
+    <string name="tags">Tags:</string>
+    <string name="tags_for_this_dream">Tags for this dream...</string>
+    <string name="title__">Title...</string>
+    <string name="replay_file">Listen to the recording</string>
+    <string name="record">Record</string>
+    <string name="replay">Replay</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="dream_date">Dream date</string>
+</resources>
